@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637884240325",
+    "project_id": "finscan-c7f28",
+    "storage_bucket": "finscan-c7f28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637884240325:android:3781208f70b998f0d7bbac",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDnjP8TeogcEL6hSLpUosfNIocfw_7rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
